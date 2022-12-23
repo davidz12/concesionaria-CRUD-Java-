@@ -1,0 +1,14 @@
+mx\com\gm\jdbc\mavenproject2\persistencia\AutomovilJpaController.class
+mx\com\gm\jdbc\mavenproject2\gui\AñadirAutomovil$2.class
+mx\com\gm\jdbc\mavenproject2\logica\ControladoraLogica.class
+mx\com\gm\jdbc\mavenproject2\gui\Principal.class
+mx\com\gm\jdbc\mavenproject2\logica\Automovil.class
+mx\com\gm\jdbc\mavenproject2\gui\Principal$1.class
+mx\com\gm\jdbc\mavenproject2\Mavenproject2.class
+mx\com\gm\jdbc\mavenproject2\gui\AñadirAutomovil.class
+mx\com\gm\jdbc\mavenproject2\persistencia\exceptions\IllegalOrphanException.class
+mx\com\gm\jdbc\mavenproject2\gui\AñadirAutomovil$1.class
+mx\com\gm\jdbc\mavenproject2\persistencia\exceptions\PreexistingEntityException.class
+mx\com\gm\jdbc\mavenproject2\logica\Automovil_.class
+mx\com\gm\jdbc\mavenproject2\persistencia\exceptions\NonexistentEntityException.class
+mx\com\gm\jdbc\mavenproject2\persistencia\ControladoraPersistencia.class
